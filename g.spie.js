@@ -3,7 +3,7 @@
  * https://en.wikipedia.org/wiki/Pie_chart#Spie_chart
  * 2012 Mark Stahl (http://www.scienceandmagic.com)
  *  
- * modifications made to g.piechart.js from:
+ * modifications made to g.pie.js from:
  * g.Raphael 0.5 - Charting library, based on Raphaël
  *
  * Copyright (c) 2009 Dmitry Baranovskiy (http://g.raphaeljs.com)
