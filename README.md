@@ -10,3 +10,11 @@ For more information about Spie charts refer to the following URLs:
 https://en.wikipedia.org/wiki/Pie_chart#Spie_chart
 http://addictedtor.free.fr/graphiques/RGraphGallery.php?graph=106
 
+Usage
+=====
+```javascript
+r = Raphael("holder-div-id");
+r.spiechart(100, [90,50,75], [55,20,25], {
+    colors: [#55B550, #DFC962, #DD6164]
+}); 
+```
