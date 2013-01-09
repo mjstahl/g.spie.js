@@ -14,7 +14,7 @@ Usage
 =====
 ```javascript
 r = Raphael("holder-div-id");
-r.spiechart(100, [90,50,75], [55,20,25], {
+r.spiechart(100, 100, [90,50,75], [55,20,25], {
     colors: [#55B550, #DFC962, #DD6164]
 }); 
 ```
